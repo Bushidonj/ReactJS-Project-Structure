@@ -1,0 +1,11 @@
+{
+  "apiProvider": true,
+  "walletProviders": ["metamask", "wallet-connect"],
+  "socialLogin": true,
+  "socialLoginVerifiers": ["google", "passwordless", "facebook" ,"twitter"],
+  "title": "Buddah-Space",
+  "networkType": "test",
+  "blockchain": "polygon",
+  "currency": "USD",
+  "mainColor": "#454545"
+}

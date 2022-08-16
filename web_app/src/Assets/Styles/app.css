@@ -1,0 +1,28 @@
+::-webkit-scrollbar {
+  width: 1em;
+  height: 1em;
+}
+
+::-webkit-scrollbar-track {
+  background: #DCDCDC;
+  border-radius: 100vw;
+  margin-block: 0.5em;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #808080;
+  border: 0.25em solid #808080;
+  border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #696969;
+  border: 0.25em solid #696969;
+}
+
+.modalNavConnectLogin {
+  backdrop-filter: blur(60px) !important;
+  background: rgba(255, 255, 255, 0.32) !important;
+  flex-wrap: wrap!important;
+ 
+}
