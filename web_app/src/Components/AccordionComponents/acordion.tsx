@@ -1,4 +1,4 @@
-import Icon from "./Buttons/IconLink";
+import Icon from "../Buttons/IconLink";
 import open from '../components/icons/open.svg'
 import {
     Text,
